@@ -37,7 +37,7 @@ This repository contains a full-stack web application built using ReactJS and Sp
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
 ```bash
-git clone https://github.com/MohamedAymanOuchker/ReactJs-SpringBoot-App.git
+git clone https://github.com/MohamedAymanOuchker/ReactJS-SpringBoot-App.git
 cd ReactJS-SpringBoot-App
 ```
 
