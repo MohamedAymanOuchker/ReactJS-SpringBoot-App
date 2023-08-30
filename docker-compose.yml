@@ -1,0 +1,11 @@
+version: "3"
+services:
+   postgres-service:
+      image: postgres:latest
+      container_name: postgres-tst-container
+      ports:
+         - 5432:5432
+      environment:
+         POSTGRES_DB: tst_db
+         POSTGRES_PASSWORD: admin
+         POSTGRES_USER: admin
